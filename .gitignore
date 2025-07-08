@@ -1,0 +1,25 @@
+# KiCad backup files
+*-backups/
+*.bak
+*-bak
+*.tmp
+*~
+
+# Cache files
+*-cache.lib
+fp-info-cache
+
+# Auto-generated files
+*.pro.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.autosave
+*.000
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
