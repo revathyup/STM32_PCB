@@ -18,7 +18,7 @@ This project contains the PCB layout, schematic, and manufacturing files for an 
 
 ## Credits
 Original design by Philip Salmony (pms67)
-Modified and maintained by revathyup
+Modified and maintained by revathyup for learning purpose
 
 ## License
 MIT License - see LICENSE file for details
